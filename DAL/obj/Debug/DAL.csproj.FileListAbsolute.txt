@@ -1,0 +1,14 @@
+C:\Contents\Academic Contents\Sem 10\labtask\DAL\bin\Debug\DAL.dll.config
+C:\Contents\Academic Contents\Sem 10\labtask\DAL\bin\Debug\DAL.dll
+C:\Contents\Academic Contents\Sem 10\labtask\DAL\bin\Debug\DAL.pdb
+C:\Contents\Academic Contents\Sem 10\labtask\DAL\bin\Debug\EntityFramework.dll
+C:\Contents\Academic Contents\Sem 10\labtask\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Contents\Academic Contents\Sem 10\labtask\DAL\bin\Debug\EntityFramework.xml
+C:\Contents\Academic Contents\Sem 10\labtask\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Contents\Academic Contents\Sem 10\labtask\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Contents\Academic Contents\Sem 10\labtask\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Contents\Academic Contents\Sem 10\labtask\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Contents\Academic Contents\Sem 10\labtask\DAL\obj\Debug\DAL.dll
+C:\Contents\Academic Contents\Sem 10\labtask\DAL\obj\Debug\DAL.pdb
+C:\Contents\Academic Contents\Sem 10\labtask\DAL\obj\Debug\DAL.Migrations.DBINITTABLEANDRELATIONSADDED.resources
+C:\Contents\Academic Contents\Sem 10\labtask\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
