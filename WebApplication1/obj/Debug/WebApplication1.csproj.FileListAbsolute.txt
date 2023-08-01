@@ -68,6 +68,8 @@ C:\Contents\Academic Contents\Sem 10\labtask\WebApplication1\bin\System.Web.WebP
 C:\Contents\Academic Contents\Sem 10\labtask\WebApplication1\bin\System.Web.WebPages.dll
 C:\Contents\Academic Contents\Sem 10\labtask\WebApplication1\bin\System.Web.WebPages.Razor.dll
 C:\Contents\Academic Contents\Sem 10\labtask\WebApplication1\bin\WebGrease.dll
+C:\Contents\Academic Contents\Sem 10\labtask\WebApplication1\bin\AutoMapper.dll
+C:\Contents\Academic Contents\Sem 10\labtask\WebApplication1\bin\DAL.dll
 C:\Contents\Academic Contents\Sem 10\labtask\WebApplication1\bin\BLL.pdb
 C:\Contents\Academic Contents\Sem 10\labtask\WebApplication1\bin\EntityFramework.xml
 C:\Contents\Academic Contents\Sem 10\labtask\WebApplication1\bin\EntityFramework.SqlServer.xml
@@ -84,6 +86,9 @@ C:\Contents\Academic Contents\Sem 10\labtask\WebApplication1\bin\System.Web.WebP
 C:\Contents\Academic Contents\Sem 10\labtask\WebApplication1\bin\System.Web.WebPages.Razor.xml
 C:\Contents\Academic Contents\Sem 10\labtask\WebApplication1\bin\Antlr3.Runtime.pdb
 C:\Contents\Academic Contents\Sem 10\labtask\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Contents\Academic Contents\Sem 10\labtask\WebApplication1\bin\AutoMapper.xml
+C:\Contents\Academic Contents\Sem 10\labtask\WebApplication1\bin\DAL.pdb
+C:\Contents\Academic Contents\Sem 10\labtask\WebApplication1\bin\DAL.dll.config
 C:\Contents\Academic Contents\Sem 10\labtask\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
 C:\Contents\Academic Contents\Sem 10\labtask\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
 C:\Contents\Academic Contents\Sem 10\labtask\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
